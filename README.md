@@ -4,10 +4,9 @@
 <!--
 **willemml/willemml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- I like Rust, Kotlin, C++ and Java
-- I'm currently learning Rust and Swift
-- I enjoy developing software
-- I love open source
+- I love writing software in Rust
+- I know Java, Kotlin, C++ and some Swift
+- I love open source software
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=willemml&show_icons=true&theme=dark)
 
