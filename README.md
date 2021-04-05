@@ -1,11 +1,11 @@
 
 
-### Hi there, I'm Willem
-<!--
-**willemml/willemml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+#### Hi there, I'm Willem
 - I love writing software in Rust
-- I know Java, Kotlin, C++ and some Swift
-- I love open source software
+- I know Java, Kotlin, C, C++, some Python and some Swift
+
+##### Contact
+- @willeml:matrix.org on Matrix
+- wnuke#2858 on Discord
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=willemml&show_icons=true&theme=dark)
