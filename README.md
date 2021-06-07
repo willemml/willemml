@@ -1,6 +1,6 @@
 #### Hi there, I'm Willem
 - I love writing software in Rust
-- I know Java, Kotlin, C, C++, some Python and some Swift
+- I know Java, Kotlin, C, C++, Swift and Python
 
 ##### Contact
 - Matrix ID: `@willeml:matrix.org`
